@@ -11,12 +11,14 @@ Tema:  Instalación del entorno R
     
 
 :paperclip: Clase 2: 7 de septiembre 2020
-Tema: El ambiente R, RStudio, Miktex y Git
+Tema: El ambiente R, RStudio, Miktex y Git:
+
         + Tarea:
         + Laboratorio 2
 
 :paperclip: Clase 3: 14 de septiembre 2020
-Tema: Estadísticas descriptivas
-        + Tarea
+Tema: Estadísticas descriptivas:
+
+        + Tarea 
         + Laboratorio 3
 
