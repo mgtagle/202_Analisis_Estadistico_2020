@@ -19,6 +19,6 @@ Tema: El ambiente R, RStudio, Miktex y Git:
 :paperclip: Clase 3: 14 de septiembre 2020
 Tema: Estadísticas descriptivas:
 - :file_folder: __Actividad 3__:
-        + Tarea 
-        + Laboratorio 3
+    + Tarea 
+    + Laboratorio 3
 
