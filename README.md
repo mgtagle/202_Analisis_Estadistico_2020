@@ -8,3 +8,15 @@ Tema:  Instalación del entorno R
 - :file_folder: __Tareas__:
     + [Tarea 1](Tarea_1_Métodos_Estadisticos.pdf)
     + Administrar una versión control con Rstudio y Github (presencial)
+    
+
+:paperclip: Clase 2: 7 de septiembre 2020
+Tema: El ambiente R, RStudio, Miktex y Git
+        + Tarea:
+        + Laboratorio 2
+
+:paperclip: Clase 3: 14 de septiembre 2020
+Tema: Estadísticas descriptivas
+        + Tarea
+        + Laboratorio 3
+
